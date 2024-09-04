@@ -1,0 +1,8 @@
+flask
+flask_mysqldb
+flask_login
+scikit-learn
+werkzeug
+numpy
+tensorflow
+opencv-python

@@ -1,0 +1,241 @@
+Patient Id,Joint Pain:,Gender,Age,Menopause Age,height  (meter),Weight (KG) ,Smoker,Diabetic,Hypothyroidism,Number of Pregnancies,Seizer Disorder,Estrogen Use,Occupation ,History of Fracture,Dialysis:,Family History of Osteoporosis,Maximum Walking distance (km),Daily Eating habits,Medical History,T-score Value,Z-Score Value,BMI: ,Obesity,Diagnosis
+OP1,yes,male,65.0,0.0,1.6459200000000005,65.0,yes,no,no,0.0,no,no,shopkeeper,no,no,no,0.2,normal,normal,-1.98,0.73,23.993627472089564,normal weight,osteopenia
+OP2,yes,female,54.0,46.0,1.6764,78.0,no,no,no,3.0,no,no,h.wife,no,no,no,1.0,normal,"G.B rem, B.P",-2.26,-2.71,27.75487644639201,over weight,osteopenia
+OP3,yes,female,49.0,43.0,1.3716,59.0,no,no,yes,3.0,no,no,h.wife,l.leg,no,no,1.0,low protiens,no,-1.92,-1.51,31.36151676967277,obesity ,osteopenia
+OP4,yes,female,57.0,40.0,1.524,72.0,no,no,yes,3.0,no,no,teacher,no,no,no,2.0,low fats,uterus removed,-2.23,-1.13,31.000062000124,obesity ,osteopenia
+OP5,yes,female,40.0,0.0,1.4935200000000002,54.0,no,no,no,3.0,no,no,h.wife,no,no,no,2.0,normal,depression,-1.81,-1.05,24.2087114744825,normal weight,osteopenia
+OP6,yes,male,53.0,0.0,1.61544,64.0,no,no,no,0.0,no,no,farmer,no,no,no,5.0,low protiens,"R.arthritis, appendix",-1.08,-0.46,24.52439539584985,normal weight,osteopenia
+OP7,yes,male,60.0,0.0,1.524,64.0,yes,no,no,0.0,no,no,chopan,R.knee ,no,no,1.0,normal,no,-1.73,-0.92,27.55561066677689,over weight,osteopenia
+OP8,yes,female,46.0,0.0,1.43256,63.0,no,no,no,5.0,no,no,h.wife,no,no,no,2.0,normal,no,-1.87,-1.59,30.69834116128169,obesity ,osteopenia
+OP9,yes,female,45.0,47.0,1.55448,39.0,no,no,no,4.0,no,no,h.wife,no,no,yes,2.0,normal,no,-2.25,-1.19,16.139658064270634,under weight,osteopenia
+OP10,yes,female,56.0,47.0,1.4020799999999998,60.0,no,yes,no,5.0,no,no,h.wife,no,no,no,4.0,normal,no,-1.18,-1.57,30.521485113543644,obesity ,osteopenia
+OP11,yes,male,45.0,0.0,1.6459200000000005,71.0,no,no,no,0.0,no,no,teacher,no,no,no,1.0,low protiens,gout,-1.13,-0.58,26.2084238541286,over weight,osteopenia
+OP12,yes,male,60.0,0.0,1.524,56.0,no,no,no,0.0,no,no,farmer,no,no,no,4.0,normal,no,-1.42,-1.08,24.11115933342977,normal weight,osteopenia
+OP13,yes,female,47.0,47.0,1.524,76.0,no,no,no,4.0,no,no,h.wife,L.knee,no,no,0.2,normal,F.tube surgery,-1.57,-1.04,32.72228766679756,obesity ,osteopenia
+OP14,yes,female,52.0,40.0,1.46304,74.0,no,no,no,3.0,no,no,teacher,yes,no,yes,0.5,normal,no,-1.37,-0.52,34.57158727589061,obesity ,osteopenia
+N1,yes,male,40.0,0.0,1.61544,74.0,no,no,no,0.0,no,no,businesman,no,no,yes,1.0,normal,no,-0.61,-0.34,28.35633217645139,over weight,normal
+N2,yes,female,28.0,0.0,1.524,68.0,no,no,no,1.0,no,no,h.wife,L.foot,no,no,0.5,normal,no,-0.51,-0.37,29.27783633345044,over weight,normal
+OP15,yes,male,55.0,0.0,1.4935200000000002,53.0,yes,no,no,0.0,no,no,labour,no,no,no,6.0,normal,no,-2.01,-1.34,23.760402002732825,normal weight,osteopenia
+N3,yes,male,24.0,0.0,1.76784,63.0,no,no,no,0.0,no,no,student,no,no,yes,5.0,normal,disk,-0.41,-0.41,20.158334014646623,normal weight,normal
+OP16,yes,male,64.0,0.0,1.58496,70.0,yes,no,no,0.0,no,no,businesman,no,no,no,4.0,normal,B.P,-1.81,-0.83,27.865152705979312,over weight,osteopenia
+OP17,yes,male,65.0,0.0,1.55448,61.0,no,no,no,0.0,no,no,farmer,no,no,yes,3.0,normal,no,-1.13,-0.91,25.24408056206433,over weight,osteopenia
+OP18,yes,female,58.0,48.0,1.4935200000000002,74.0,no,no,no,5.0,no,no,h.wife,no,no,no,0.3,normal,B.P,-1.92,-0.71,33.174900909476015,obesity ,osteopenia
+OP19,yes,female,35.0,0.0,1.43256,57.0,no,no,no,5.0,no,no,h.wife,no,no,no,2.0,no red meat,no,-1.24,-0.72,27.774689622112,over weight,osteopenia
+OS1,yes,female,65.0,50.0,1.4020799999999998,64.0,no,no,no,7.0,no,no,h.wife,vertebral ,no,no,4.0,normal,disk,-2.62,-2.11,32.55625078777989,obesity ,osteoporosis
+OP20,yes,male,70.0,0.0,1.55448,64.0,yes,no,no,0.0,no,no,farmer,no,no,yes,2.0,normal,no,-2.23,-1.08,26.48559272085437,over weight,osteopenia
+OP21,yes,male,63.0,0.0,1.61544,76.0,yes,no,no,0.0,no,no,R.G.E,no,no,no,4.0,normal,G.B rem,-1.76,-0.81,29.122719532571697,over weight,osteopenia
+N4,yes,male,45.0,0.0,1.6459200000000005,60.0,yes,yes,no,0.0,no,no,G.E,no,no,no,1.0,normal,B.P,-0.83,-0.36,22.14796382039037,normal weight,normal
+OP22,yes,male,50.0,0.0,1.61544,64.0,yes,no,no,0.0,no,no,shopkeeper,vertebral,no,no,0.5,normal,B.P,-1.43,-2.01,24.52439539584985,normal weight,osteopenia
+OP23,yes,male,60.0,0.0,1.55448,46.0,yes,no,no,0.0,no,no,labour,no,no,no,5.0,low protien,no,-1.82,-0.37,19.036519768114083,normal weight,osteopenia
+OP24,yes,male,65.0,0.0,1.6459200000000005,54.0,no,no,no,0.0,no,no,farmer,no,no,no,3.0,veg & white meat,no,-1.94,-0.86,19.93316743835133,normal weight,osteopenia
+N5,yes,male,44.0,0.0,1.61544,70.0,yes,no,no,0.0,no,no,labour,no,no,no,8.0,normal,no,-0.43,-0.41,26.82355746421077,over weight,normal
+OP25,yes,female,50.0,46.0,1.4935200000000002,58.0,no,no,no,4.0,no,no,h.wife,R.foot,no,no,1.0,normal,no,-2.22,-1.05,26.0019493614812,over weight,osteopenia
+N6,yes,female,49.0,48.0,1.46304,68.0,no,no,no,4.0,no,no,h.wife,no,no,no,2.0,normal,Hernia,-0.83,-0.46,31.768485604872453,obesity ,normal
+OS2,yes,male,70.0,0.0,1.6764,74.0,no,no,no,0.0,no,no,R.G.E,no,no,no,1.5,normal,no,-2.82,-2.45,26.331549449141143,over weight,osteoporosis
+OP26,yes,male,65.0,0.0,1.6764,85.0,yes,no,no,0.0,no,no,R.G.E,no,no,yes,1.0,normal,R.arthritis,-2.13,-0.83,30.24569869158104,obesity ,osteopenia
+OP27,yes,male,59.0,0.0,1.7068799999999995,58.0,no,no,no,0.0,no,no,stenographer,collar bone ,no,no,2.0,low peotien,low B.P,-1.73,-1.72,19.90774247988406,normal weight,osteopenia
+OP28,yes,female,50.0,49.0,1.58496,75.0,no,no,no,4.0,no,no,teacher,no,no,yes,2.0,"low protiens, no sour food",no,-2.35,-0.68,29.855520756406406,over weight,osteopenia
+N7,yes,male,23.0,0.0,1.73736,83.0,no,no,no,0.0,no,no,student,no,no,yes,2.0,normal,no,-0.42,-0.48,27.497832089470823,over weight,normal
+N8,yes,female,30.0,0.0,1.43256,50.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.3,normal,no,-0.88,0.59,24.363762826414035,normal weight,normal
+OP29,yes,female,40.0,28.0,1.61544,70.0,no,no,no,5.0,yes,yes,h.wife,vertebral,no,no,4.0,no red meat,"uterus remover, disk, seizer",-1.21,-0.48,26.82355746421077,over weight,osteopenia
+OP30,yes,female,40.0,0.0,1.61544,60.0,no,no,no,2.0,no,no,h.wife,no,no,no,2.0,normal,disk. Osteopenia,-1.76,-1.48,22.991620683609234,normal weight,osteopenia
+OS3,yes,male,65.0,0.0,1.6459200000000005,76.0,no,no,no,0.0,no,no,farmer,no,no,yes,1.0,normal,no,-2.52,-1.18,28.0540875058278,over weight,osteoporosis
+OS4,yes,female,56.0,52.0,1.6459200000000005,65.0,no,no,no,5.0,no,no,h.wife,R. wrist ,no,no,0.3,normal,uterus rem,-2.88,-2.62,23.993627472089564,normal weight,osteoporosis
+OP31,yes,male,54.0,0.0,1.55448,65.0,no,no,no,0.0,no,no,teacher,foot injury,no,no,6.0,normal,no,-1.91,-0.73,26.899430107117727,over weight,osteopenia
+OP32,yes,female,50.0,0.0,1.524,84.0,no,yes,no,6.0,no,no,h.wife,no,no,no,0.5,normal,no,-2.05,-1.38,36.166739000144666,obesity ,osteopenia
+OS5,yes,female,70.0,48.0,1.524,77.0,no,no,no,6.0,no,no,h.wife,no,no,no,0.2,normal,B.P,-2.99,-2.39,33.15284408346594,obesity ,osteoporosis
+OP33,yes,female,50.0,48.0,1.46304,73.0,no,no,no,2.0,no,no,h.wife,left foot,no,no,2.0,normal,uterus removed,-1.83,-0.93,34.104403664054246,obesity ,osteopenia
+OS6,yes,male,76.0,0.0,1.7068799999999995,90.0,yes,no,no,0.0,no,no,forest guard,left foot,no,no,0.2,normal,no,-2.57,-0.71,30.891324537751125,obesity ,osteoporosis
+OP34,yes,male,65.0,0.0,1.6459200000000005,74.0,no,no,no,0.0,no,no,businesman,no,no,no,0.2,normal,disk,-1.93,-0.77,27.31582204514812,over weight,osteopenia
+N9,yes,female,42.0,37.0,1.55448,73.0,no,no,yes,3.0,no,no,h.wife,no,no,no,0.5,low protiens,uterus removed,-0.97,-0.41,30.21012919722452,obesity ,normal
+OP35,yes,female,55.0,48.0,1.46304,68.0,no,no,no,7.0,no,no,h.wife,no,no,no,2.0,normal,no,-2.36,-1.98,31.768485604872453,obesity ,osteopenia
+OP36,yes,male,66.0,0.0,1.6764,64.0,no,no,no,0.0,no,no,farmer,no,no,no,2.0,normal,no,-1.93,-0.47,22.77323195601396,normal weight,osteopenia
+OP37,yes,female,50.0,45.0,1.524,58.0,no,no,no,0.0,no,no,h.wife,wrist injury,no,no,0.2,normal,no,-1.6,-1.12,24.972272166766555,over weight,osteopenia
+OP38,yes,male,62.0,0.0,1.6459200000000005,54.0,no,no,no,0.0,no,no,R.g.e,R.arm,no,no,2.0,normal,B.P,-1.81,-0.27,19.93316743835133,normal weight,osteopenia
+OP39,yes,female,48.0,45.0,1.6764,68.0,no,yes,no,2.0,no,no,h.wife,R.arm,no,no,0.3,normal,G.B removed,-1.86,-1.58,24.196558953264837,normal weight,osteopenia
+OS7,yes,male,70.0,0.0,1.6764,80.0,no,yes,no,0.0,no,no,R.g.e,no,no,no,0.2,low sugar,B.P,-2.56,-0.98,28.46653994501745,over weight,osteoporosis
+OP40,yes,female,45.0,0.0,1.6459200000000005,70.0,no,no,no,2.0,no,no,h.wife,no,no,no,2.0,no sour food,no,-2.03,-1.78,25.83929112378876,over weight,osteopenia
+N10,yes,female,30.0,0.0,1.55448,73.0,no,no,no,0.0,no,no,h.wife,no,no,no,2.0,normal,no,-0.58,-0.51,30.21012919722452,obesity ,normal
+N11,yes,female,35.0,0.0,1.524,68.0,no,no,yes,1.0,no,no,h.wife,no,no,no,2.0,normal,no,-0.81,-0.67,29.27783633345044,over weight,normal
+OP41,yes,female,47.0,47.0,1.58496,68.0,no,no,no,4.0,no,no,h.wife,no,no,no,1.0,normal,R.F,-2.09,-1.46,27.069005485808475,over weight,osteopenia
+N12,yes,male,25.0,0.0,1.73736,64.0,no,no,no,0.0,no,no,student,no,no,no,3.0,normal,hernia,-0.31,-0.36,21.20314763525461,normal weight,normal
+OP42,yes,female,45.0,0.0,1.55448,68.0,no,no,yes,0.0,yes,no,h.wife,no,no,no,0.3,normal,uterus removed,-1.28,-0.96,28.14094226590777,over weight,osteopenia
+OP43,yes,male,70.0,0.0,1.73736,70.0,no,no,no,0.0,no,no,farmer,no,no,no,1.0,normal,"ankle surgery, b.p, ",-2.37,-1.86,23.190942726059728,normal weight,osteopenia
+OP44,yes,female,52.0,48.0,1.55448,70.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.2,normal,no,-2.28,-2.09,28.968617038434477,over weight,osteopenia
+N13,yes,male,39.0,0.0,1.73736,65.0,no,no,no,0.0,no,no,businesman,no,no,no,2.0,normal,no,-0.48,-0.41,21.53444681705546,normal weight,normal
+OP45,yes,male,42.0,0.0,1.6764,75.0,no,no,yes,0.0,no,no,businesman,no,no,no,6.0,no fats,"fatty liver, cholestrol ",-1.01,-0.76,26.68738119845386,over weight,osteopenia
+OP46,yes,male,54.0,0.0,1.79832,84.0,yes,no,no,0.0,no,no,worker,no,no,no,5.0,normal,G.B removed,-2.01,-1.37,25.97438882515417,over weight,osteopenia
+OP47,yes,female,58.0,45.0,1.4935200000000002,76.0,no,no,no,2.0,no,no,h.wife,no,no,no,1.0,normal,"sezerian, uterus removed",-2.21,-2.1,34.07151985297537,obesity ,osteopenia
+OP48,yes,female,35.0,0.0,1.58496,65.0,no,no,no,2.0,no,no,parlour,no,no,yes,1.0,normal,sezerian,-1.06,-0.89,25.87478465555222,over weight,osteopenia
+N14,yes,female,30.0,0.0,1.58496,63.0,no,no,yes,1.0,no,no,h.wife,no,no,no,2.0,no protiens,arthrities,-0.6,-0.62,25.07863743538138,over weight,normal
+OP49,yes,female,55.0,45.0,1.58496,65.0,no,no,yes,1.0,no,no,h.wife,no,no,no,4.0,normal,G.B removed,-1.89,-0.89,25.87478465555222,over weight,osteopenia
+OP50,yes,male,60.0,0.0,1.73736,77.0,no,no,no,0.0,no,no,G.E,no,no,yes,3.0,normal,no,-2.08,-1.46,25.5100369986657,over weight,osteopenia
+OS8,no,male,55.0,0.0,1.8288,92.0,no,no,no,0.0,no,no,businesman,no,no,yes,5.0,normal,no,-2.5,-2.45,27.50777106492485,over weight,osteoporosis
+OP51,yes,male,59.0,0.0,1.7068799999999995,73.0,no,no,no,0.0,no,no,G.E,no,no,no,8.0,normal,no,-2.06,-1.31,25.056296569509247,over weight,osteopenia
+OP52,yes,female,48.0,45.0,1.61544,82.0,no,no,no,2.0,no,no,h.wife,no,no,yes,2.0,normal,no,-2.1,-1.67,31.42188160093262,obesity ,osteopenia
+OS9,yes,male,55.0,0.0,1.8288,92.0,no,no,no,0.0,no,no,businesman,no,no,yes,5.0,normal,no,-2.5,-2.45,27.50777106492485,over weight,osteoporosis
+OP53,yes,male,66.0,0.0,1.73736,80.0,no,no,no,0.0,no,no,G.E,hip & head fracture,no,no,3.0,normal,no,-2.08,-1.86,26.50393454406826,over weight,osteopenia
+OP54,yes,female,50.0,47.0,1.46304,58.0,no,no,no,3.0,no,no,h.wife,no,no,yes,2.0,normal,cyst removed,-2.2,-1.9,27.096649486508856,over weight,osteopenia
+OP55,yes,male,58.0,0.0,1.61544,66.0,yes,no,no,0.0,no,no,G.E,no,no,no,1.0,low protiens,cirhosis,-2.01,-1.47,25.29078275197016,over weight,osteopenia
+OS10,yes,female,65.0,50.0,1.55448,73.0,no,no,no,3.0,no,no,h.wife,no,no,yes,1.0,normal,uterus removed,-2.57,-1.08,30.21012919722452,obesity ,osteoporosis
+OP56,yes,female,30.0,0.0,1.58496,65.0,no,no,no,3.0,no,no,h.wife,no,no,no,6.0,no protiens,no,-1.27,-0.88,25.87478465555222,over weight,osteopenia
+N15,yes,male,34.0,0.0,1.76784,73.0,no,no,no,0.0,no,no,mobile technician,no,no,yes,3.0,normal,no,-0.58,-0.51,23.35806957252704,normal weight,normal
+OP57,yes,female,50.0,43.0,1.6764,98.0,no,no,no,6.0,no,no,h.wife,knee fracture,no,no,1.0,normal,no,-1.89,-0.91,34.87151143264638,obesity ,osteopenia
+OP58,yes,male,55.0,0.0,1.76784,81.0,no,no,no,0.0,no,no,businesman,no,no,no,2.0,normal,no,-2.03,-1.45,25.91785801883137,over weight,osteopenia
+OP59,yes,female,34.0,0.0,1.55448,68.0,no,no,no,2.0,no,no,h.wife,no,no,no,2.0,normal,no,-1.03,-0.67,28.14094226590777,over weight,osteopenia
+OP60,yes,female,45.0,35.0,1.55448,80.0,no,no,yes,2.0,no,no,h.wife,ankle,no,no,0.3,normal,"B.P, G.B removed",-2.1,-1.67,33.10699090106797,obesity ,osteopenia
+OP61,yes,female,52.0,32.0,1.6459200000000005,76.0,no,no,no,2.0,no,yes,h.wife,hand joint,no,yes,0.2,"low fats, no sour","G.B removed, Bronchitus, B.P",-1.87,-0.99,28.0540875058278,over weight,osteopenia
+OP62,yes,female,60.0,50.0,1.3716,55.0,no,no,no,3.0,no,no,h.wife,no,no,yes,0.0,normal,hypertnsn,-2.1,-1.03,29.2353122429153,over weight,osteopenia
+OP63,yes,male,45.0,0.0,1.76784,71.0,no,no,no,0.0,no,no,businesman,wrist fracture,no,no,8.0,normal,cholestrol,-1.48,-1.21,22.71812246095096,normal weight,osteopenia
+OP64,yes,male,60.0,0.0,1.7068799999999995,78.0,no,no,yes,0.0,no,no,shopkeeper,no,no,no,4.0,normal,G.B removed,-2.16,-1.46,26.77248126605097,over weight,osteopenia
+OP65,yes,male,55.0,0.0,1.76784,98.0,yes,no,yes,0.0,no,no,businesman,no,no,no,0.5,"not fats, low protien","cirhosis, kidney problem",-2.01,-1.48,31.357408467228083,obesity ,osteopenia
+OP66,yes,female,42.0,41.5,1.524,67.0,no,no,no,3.0,no,no,h.wife,no,no,no,1.0,normal,stomach,-1.28,-0.94,28.847279916782053,over weight,osteopenia
+OP67,yes,female,65.0,47.0,1.55448,88.0,no,no,no,2.0,no,no,h.wife,foot fracture,no,no,1.0,low protiens,B.P,-2.45,-0.79,36.41768999117477,obesity ,osteopenia
+OP68,yes,female,54.0,48.0,1.55448,63.0,no,no,yes,2.0,no,no,h.wife,no,no,no,0.5,veg diet,"Rhee haar, fatty liver, disk",-2.22,-1.16,26.071755334591025,over weight,osteopenia
+OP69,yes,female,55.0,35.0,1.58496,69.0,no,no,yes,4.0,no,no,h.wife,no,no,no,2.0,"low protien, fats and no sour food","G.B removed, b.p, stomach",-2.1,-0.96,27.467079095893894,over weight,osteopenia
+OP70,yes,female,54.0,45.0,1.55448,73.0,no,no,no,3.0,no,no,h.wife,ankle fracture,no,yes,2.0,normal,B.P,-2.22,-1.16,30.21012919722452,obesity ,osteopenia
+OP71,yes,female,50.0,35.0,1.55448,74.0,no,no,yes,2.0,no,no,h.wife,no,no,no,0.5,normal,"B.P, disk",-2.01,-1.87,30.62396658348787,obesity ,osteopenia
+OP72,yes,male,39.0,0.0,1.7068799999999995,75.0,no,no,yes,4.0,no,no,teacher,no,no,yes,4.0,normal,no,-1.09,-0.93,25.74277044812594,over weight,osteopenia
+OP73,yes,male,75.0,0.0,1.7068799999999995,66.0,no,no,no,0.0,no,no,R.N T,hip fracture,no,no,0.2,normal,"intestine surgery, urine, kyphotic",-2.45,-1.18,22.653637994350824,normal weight,osteopenia
+N16,yes,female,30.0,0.0,1.58496,68.0,no,no,no,0.0,no,no,Teacher,ankle fracture,no,yes,1.0,normal,"disk, PCOD",-0.58,-0.51,27.069005485808475,over weight,normal
+OP74,yes,female,36.0,32.0,1.6764,70.0,no,no,no,1.0,no,no,h.wife,no,no,no,1.0,normal,"L.breast removed, chemotherapy",-1.05,-0.88,24.908222451890268,over weight,osteopenia
+OP75,yes,female,47.0,0.0,1.55448,76.0,no,no,no,2.0,no,no,h.wife,hip fracture,no,yes,1.0,normal,"seizerians-2, eye surgery",-1.75,-1.21,31.45164135601457,obesity ,osteopenia
+OP76,yes,male,57.0,0.0,1.79832,87.0,no,no,no,0.0,no,no,teacher,no,no,no,6.0,normal,no,-2.06,-1.46,26.90204556890968,over weight,osteopenia
+OP77,yes,female,55.0,43.0,1.6459200000000005,54.0,no,no,no,2.0,no,no,h.wife,wrist fracture,no,no,2.0,low protien & sugar,uterus & ovary removed,-2.28,-1.13,19.93316743835133,normal weight,osteopenia
+OP78,yes,male,62.0,0.0,1.7068799999999995,70.0,no,no,yes,0.0,no,no,G.E,no,no,no,2.0,Normal,hypertnsn,-2.2,-1.51,24.026585751584207,normal weight,osteopenia
+OS11,yes,male,60.0,0.0,1.6764,78.0,no,no,no,0.0,no,no,G.E,no,no,no,1.0,normal,no,-2.51,-1.09,27.75487644639201,over weight,osteoporosis
+OP79,yes,female,45.0,45.0,1.524,72.0,no,no,no,2.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.1,-1.76,31.000062000124,obesity ,osteopenia
+OS12,yes,male,71.0,0.0,1.7068799999999995,73.0,no,no,no,0.0,no,no,farmer,no,no,no,1.5,normal,no,-2.56,-1.56,25.056296569509247,over weight,osteoporosis
+OP80,yes,female,50.0,48.0,1.58496,69.0,no,no,no,5.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.18,-1.09,27.467079095893894,over weight,osteopenia
+OP81,yes,female,45.0,0.0,1.61544,70.0,no,no,no,4.0,no,no,h.wife,no,no,no,2.0,normal,no,-2.23,-0.89,26.82355746421077,over weight,osteopenia
+OS13,yes,female,70.0,48.0,1.46304,68.0,no,yes,no,6.0,no,no,h.wife,no,no,no,1.0,low fats,no,-2.98,-1.87,31.768485604872453,obesity ,osteoporosis
+OS14,yes,male,75.0,0.0,1.7068799999999995,72.0,yes,no,no,0.0,no,no,farmer,no,no,no,1.0,normal,no,-2.67,-1.04,24.7130596302009,normal weight,osteoporosis
+OP82,yes,female,47.0,45.0,1.55448,73.0,no,yes,yes,4.0,no,no,h.wife,foot fracture,no,no,3.0,vegetable diet,uterus removed,-1.87,-1.28,30.21012919722452,obesity ,osteopenia
+N17,yes,male,38.0,0.0,1.7068799999999995,74.0,yes,no,no,0.0,no,no,businessman,no,no,no,3.0,normal,no,-0.78,-0.43,25.39953350881759,over weight,normal
+OP83,yes,female,50.0,48.0,1.4935200000000002,72.0,no,no,no,4.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.23,-0.76,32.27828196597667,obesity ,osteopenia
+OP84,yes,female,50.0,45.0,1.58496,68.0,no,no,no,3.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.07,-1.35,27.069005485808475,over weight,osteopenia
+N18,yes,female,37.0,0.0,1.58496,69.0,no,no,no,2.0,no,no,h.wife,no,no,no,2.0,normal,no,-0.86,-0.57,27.467079095893894,over weight,normal
+OP85,yes,male,50.0,0.0,1.76784,80.0,yes,no,no,0.0,no,no,businessman,no,no,no,3.0,normal,no,-1.06,-0.99,25.59788446304333,over weight,osteopenia
+N19,yes,female,30.0,0.0,1.524,68.0,no,no,no,2.0,no,no,h.wife,no,no,no,2.0,normal,no,-0.68,-0.45,29.27783633345044,over weight,normal
+N20,yes,female,25.0,0.0,1.58496,60.0,no,no,no,0.0,no,no,student,no,no,no,2.0,normal,no,-0.76,-0.43,23.884416605125125,normal weight,normal
+OS15,yes,male,70.0,0.0,1.7068799999999995,70.0,no,no,no,0.0,no,no,farmer,no,no,no,1.0,low fats,no,-2.69,-1.89,24.026585751584207,normal weight,osteoporosis
+OP86,yes,female,50.0,0.0,1.46304,68.0,no,no,no,6.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.36,-1.74,31.768485604872453,obesity ,osteopenia
+OS16,yes,female,70.0,50.0,1.4935200000000002,50.0,no,no,no,3.0,no,no,h.wife,knee replaced,no,no,0.3,normal,"B.P, head injury",-2.57,-0.82,22.415473587483795,normal weight,osteoporosis
+OS17,yes,female,61.0,57.0,1.7068799999999995,64.0,no,no,yes,3.0,no,no,R.G.E,arm fracture,no,yes,0.5,no fats and sugar,"disk, uric acid, TG",-2.57,-1.08,21.96716411573413,normal weight,osteoporosis
+OS18,yes,male,62.0,0.0,1.73736,71.0,yes,yes,no,0.0,no,no,G.E,yes,no,no,2.0,normal,Cardiac,-2.75,-1.98,23.522241907860582,normal weight,osteoporosis
+OS19,yes,female,58.0,49.0,1.43256,57.0,no,no,no,2.0,no,no,h.wife,lumbar fracture,no,yes,0.3,normal,"cholestrol, B.P",-2.53,-1.01,27.774689622112,over weight,osteoporosis
+OS20,yes,male,62.0,0.0,1.7068799999999995,65.0,yes,no,no,0.0,no,no,teacher,no,no,yes,8.0,normal,no,-2.5,-1.85,22.31040105504248,normal weight,osteoporosis
+OP87,yes,male,48.0,0.0,1.6764,64.0,no,no,no,0.0,no,no,lecturer,no,no,no,2.0,normal,no,-1.29,-0.98,22.77323195601396,normal weight,osteopenia
+OP88,yes,female,32.0,0.0,1.4935200000000002,62.0,no,no,yes,3.0,no,no,h.wife,no,no,yes,2.0,normal,sciserian,-1.12,-1.02,27.795187248479905,over weight,osteopenia
+OP89,yes,male,40.0,0.0,1.6764,74.0,yes,no,yes,0.0,no,no,businessman,no,no,yes,1.0,normal,no,-1.1,-1.01,26.331549449141143,over weight,osteopenia
+OS21,yes,female,59.0,48.0,1.55448,65.0,no,no,no,4.0,no,no,h.wife,no,no,yes,0.5,normal,no,-2.58,-1.65,26.899430107117727,over weight,osteoporosis
+OP90,yes,female,30.0,0.0,1.6459200000000005,60.0,no,no,no,3.0,no,no,h.wife,no,no,no,6.0,no protiens,no,-1.27,-0.88,22.14796382039037,normal weight,osteopenia
+N21,yes,male,40.0,0.0,1.6764,71.0,no,no,no,0.0,no,no,teacher,no,no,no,3.0,no calcium diet,"fatty liver, cholestrol ",-0.69,-0.58,25.26405420120299,over weight,normal
+OP91,yes,female,53.0,50.0,1.4935200000000002,52.0,no,no,no,3.0,no,yes,h.wife,no,no,no,5.0,normal,no,-2.33,-1.86,23.312092530983147,normal weight,osteopenia
+OP92,yes,female,44.0,43.0,1.61544,80.0,no,no,yes,2.0,no,no,h.wife,no,no,no,4.0,normal,no,-1.76,-1.42,30.655494244812317,obesity ,osteopenia
+OP93,yes,male,50.0,0.0,1.7068799999999995,67.0,no,no,yes,0.0,no,no,teacher,yes,no,no,4.0,normal,no,-2.01,-1.56,22.99687493365917,normal weight,osteopenia
+N22,yes,male,38.0,0.0,1.7068799999999995,84.0,no,no,no,0.0,no,no,businessman,no,yes,no,3.0,normal,no,-0.71,-0.58,28.83190290190105,over weight,normal
+OP94,yes,male,62.0,0.0,1.65,71.0,no,yes,no,0.0,no,no,R.G.E,no,no,yes,3.0,less salt & sugar,"B.P, Stunt",-2.15,-1.09,26.07897153351698,over weight,osteopenia
+OP95,yes,female,30.0,0.0,1.5,63.0,no,no,no,2.0,no,no,h.wife,ankle,no,no,0.3,normal,neck disk,-1.39,-2.31,28.0,overweight,osteopenia
+OP96,yes,female,52.0,42.0,1.65,63.0,no,no,no,2.0,no,no,nurse,R.foot,no,no,0.5,normal,"uterus rem, appendex, disk",-2.24,-1.19,23.14049586776859,normal weight,osteopenia
+OP97,yes,female,45.0,0.0,1.53,65.0,no,no,no,3.0,yes,yes,h.wife,shoulder ,no,no,0.2,normal,B.P,-2.01,-1.78,27.76709812465291,over weight,osteopenia
+N23,yes,male,35.0,0.0,1.65,85.0,no,no,no,0.0,no,no,clerk,no,no,no,1.0,normal,no,-0.43,-2.87,31.22130394857667,obesity ,normal
+N24,yes,female,35.0,0.0,1.5,57.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.3,normal,no,-0.78,-0.76,25.33333333333333,over weight,normal
+N25,yes,male,27.0,0.0,1.54,54.0,yes,no,no,0.0,no,no,clerk,no,no,no,1.0,normal,no,-0.48,-2.95,22.76943835385394,normal weight,normal
+N26,yes,female,35.0,0.0,1.49,73.0,no,no,no,3.0,no,no,h.wife,no,no,yes,2.0,normal,no,-0.89,-1.01,32.88140173866042,obesity ,normal
+OS22,yes,male,70.0,0.0,1.45,58.0,yes,no,no,0.0,no,no,farmer,vertebral fracture,no,no,3.0,normal,no,-2.79,-1.67,27.58620689655172,over weight,osteoporosis
+N27,yes,female,37.0,0.0,1.41,58.0,no,no,no,0.0,no,no,h.wife,lab technician,no,yes,4.0,normal,no,-0.87,-0.69,29.17358281776571,over weight,normal
+OS23,yes,male,75.0,0.0,1.57,59.0,yes,no,no,0.0,no,no,farmer,L.leg,no,no,3.0,normal,vertebral surgery,-2.66,-2.57,23.93606231490121,normal weight,osteoporosis
+OP98,yes,female,48.0,0.0,1.52,74.0,no,no,yes,2.0,no,no,health worker,head,no,yes,0.5,normal,"G.D rem, seizer, brain cont",-2.31,-2.57,32.029085872576175,obesity ,osteopenia
+OP99,yes,male,50.0,0.0,1.62,66.0,yes,no,no,0.0,no,no,labour,L.arm,no,no,7.0,normal,low B.P,-1.61,-1.09,25.14860539551897,over weight,osteopenia
+OS24,yes,female,47.0,46.0,1.54,68.0,no,no,no,1.0,no,no,h.wife,no,no,yes,0.2,normal,"seizer, B.P",-2.53,-2.01,28.67262607522348,over weight,osteoporosis
+OP100,yes,female,55.0,45.0,1.58,68.0,no,no,no,5.0,no,no,h.wife,no,no,no,1.0,normal,"GERD, ",-2.32,-2.08,27.239224483255885,over weight,osteopenia
+OP101,yes,female,50.0,48.0,1.49,68.0,no,no,no,4.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.29,-2.48,30.629250934642585,obesity ,osteopenia
+N28,yes,male,32.0,0.0,1.68,63.0,yes,no,no,0.0,no,no,barber,no,no,no,2.0,normal,no,-0.16,-0.53,22.321428571428577,normal weight,normal
+OS25,yes,male,62.0,0.0,1.72,70.0,no,no,no,0.0,no,no,G.E,no,no,no,2.0,normal,G.B rem,-2.78,-2.19,23.661438615467823,normal weight,osteoporosis
+OP102,yes,male,48.0,0.0,1.69,79.0,yes,no,no,0.0,no,no,shopkeeper,no,no,no,2.0,normal,no,-1.85,-2.61,27.660095935016283,over weight,osteopenia
+OS26,yes,female,52.0,48.0,1.47,69.0,no,no,no,5.0,no,no,h.wife,wrist,no,yes,0.5,normal,B.P,-2.53,-2.31,31.93113980285992,obesity ,osteoporosis
+OP103,yes,female,48.0,45.0,1.49,69.0,no,no,yes,3.0,no,no,h.wife,R.shoulder,no,no,0.5,normal,"Seizer, L.Ankle surgery",-1.78,-1.12,31.07968109544615,obesity ,osteopenia
+OS27,yes,male,107.0,0.0,1.63,58.0,yes,no,no,0.0,no,no,R.G.E,R.ankle,no,no,2.0,normal,no,-2.7,-1.53,21.82995219993225,normal weight,osteoporosis
+OS28,yes,female,55.0,48.0,1.53,60.0,no,no,no,3.0,no,no,h.wife,no,no,no,4.0,normal,no,-2.58,-1.08,25.63116749967961,over weight,osteoporosis
+N29,yes,male,40.0,0.0,1.72,68.0,yes,no,no,0.0,no,no,farmer,no,no,no,1.0,low protiens,no,-0.72,-0.52,22.985397512168745,normal weight,normal
+N30,yes,male,45.0,0.0,1.72,65.0,no,no,no,0.0,no,no,carpenter,no,no,no,10.0,no onions,no,-0.86,-1.23,21.97133585722012,normal weight,normal
+OS29,yes,male,17.0,0.0,1.74,61.0,no,no,no,0.0,no,no,h.wife,no,no,yes,0.5,normal,no,-2.57,-2.99,20.147971991015982,normal weight,osteoporosis
+OP104,yes,male,54.0,0.0,1.57,65.0,no,no,no,0.0,no,no,carpenter,no,no,no,1.0,low fats,no,-2.09,-2.45,26.370238143535232,over weight,osteopenia
+OS30,yes,male,65.0,0.0,1.67,70.0,yes,no,no,0.0,no,no,G.E,no,no,no,0.5,normal,no,-2.87,-2.09,25.099501595611173,over weight,osteoporosis
+OP105,yes,male,58.0,0.0,1.57,78.0,no,no,no,0.0,no,no,G.E,no,no,no,10.0,low protiens,no,-2.28,-2.32,31.64428577224228,obesity ,osteopenia
+OP106,yes,male,55.0,0.0,1.46,64.0,yes,no,no,0.0,no,no,farmer,no,no,no,2.0,normal,"R.arthritis, posture change",-2.1,-2.42,30.024394820791898,obesity ,osteopenia
+OS31,yes,male,55.0,0.0,1.61,84.0,no,no,no,0.0,no,no,G.E,no,no,no,2.0,normal,b.p,-2.81,-2.42,32.40615716986227,obesity ,osteoporosis
+OP107,yes,female,50.0,44.0,1.47,71.0,no,no,no,6.0,no,no,teacher,L.elbow,no,yes,0.2,low sugar,uterus rem,-1.98,-1.6,32.85668008700079,obesity ,osteopenia
+OP108,yes,female,48.0,0.0,1.54,70.0,no,no,no,4.0,no,no,h.wife,no,no,no,2.0,low fats,fatty liver,-1.87,-1.74,29.515938606847698,over weight,osteopenia
+OP109,yes,female,48.0,45.0,1.54,67.0,no,no,no,5.0,no,no,h.wife,"R.wrist,shoulder",no,yes,2.0,normal,"uterus rem, breast surg, seizer(2)",-2.13,-1.74,28.25096980941137,over weight,osteopenia
+N31,yes,female,35.0,0.0,1.52,51.0,no,no,no,1.0,no,no,teacher,no,no,yes,1.0,normal,no,-0.52,-0.59,22.07409972299169,normal weight,normal
+N32,yes,female,39.0,0.0,1.54,69.0,no,no,no,1.0,no,no,h.wife,R.arm,no,yes,3.0,normal,no,-0.89,-0.68,29.094282341035587,over weight,normal
+OP110,yes,female,40.0,0.0,1.49,61.0,no,no,no,4.0,no,no,h.wife,no,no,yes,2.0,normal,seizerian,-1.43,-0.97,27.476239809017613,over weight,osteopenia
+OP111,yes,female,40.0,0.0,1.57,79.0,no,no,yes,3.0,no,no,h.wife,no,no,yes,0.2,low protiens,disk,-1.08,-0.79,32.049981743681286,obesity ,osteopenia
+OS32,yes,female,60.0,48.0,1.53,69.0,no,yes,no,4.0,no,no,h.wife,neck fracture,no,no,0.2,low protiens,"B.P, Gout, Uterus rem",-2.58,-2.18,29.475842624631557,over weight,osteoporosis
+OP112,yes,female,49.0,48.0,1.52,64.0,no,no,no,5.0,no,no,h.wife,vertebral fracture,no,yes,0.2,normal,"asthma, disk, cholestrol, lung",-1.78,-1.69,27.700831024930743,over weight,osteopenia
+OS33,yes,male,65.0,0.0,1.49,54.0,yes,no,no,0.0,no,no,farmer,no,no,no,10.0,normal,no,-2.76,-2.09,24.32322868339264,normal weight,osteoporosis
+OS34,yes,male,71.0,0.0,1.58,59.0,no,no,no,0.0,no,no,R.Police,L.knee,no,no,2.0,normal,disk,-2.99,-1.85,23.63403300753084,normal weight,osteoporosis
+OS35,yes,female,60.0,48.0,1.46,51.0,no,no,no,5.0,no,no,h.wife,no,no,yes,1.0,normal,no,-2.52,-0.9,23.925689622818545,normal weight,osteoporosis
+OP113,yes,male,55.0,0.0,1.6,69.0,no,no,no,0.0,no,no,shopkeeper,no,no,yes,0.5,normal,no,-1.86,-2.42,26.953125,over weight,osteopenia
+OP114,yes,female,50.0,48.0,1.51,74.0,no,no,no,3.0,no,no,h.wife,R.foot,no,no,1.0,normal,"G.B rem, fatty liver",-2.12,-2.38,32.45471689838165,obesity ,osteopenia
+OP115,yes,female,45.0,42.0,1.47,65.0,no,no,no,4.0,no,no,h.wife,no,no,no,0.3,low protiens,"G.B rem, disk, seizer",-1.52,-0.99,30.080059234578187,obesity ,osteopenia
+N33,yes,male,30.0,0.0,1.59,59.0,no,no,no,0.0,no,no,plumber,no,no,yes,1.0,normal,no,-0.52,-2.93,23.337684427040067,normal weight,normal
+OP116,yes,male,55.0,0.0,1.47,59.0,yes,no,no,0.0,no,no,shopkeeper,no,no,no,3.0,normal,no,-2.37,-2.42,27.303438382155587,over weight,osteopenia
+OS36,yes,male,72.0,0.0,1.54,75.0,no,no,no,0.0,no,no,R.lecturer,R.arm,no,no,5.0,normal,B.p,-2.65,-1.81,31.624219935908247,obesity ,osteoporosis
+OS37,yes,female,60.0,48.0,1.5,49.0,no,no,no,6.0,no,no,h.wife,no,no,yes,0.2,normal,"G.B rem,uterus rem,disk",-2.52,-0.9,21.77777777777778,normal weight,osteoporosis
+OS38,yes,male,63.0,0.0,1.61,83.0,yes,no,no,0.0,no,no,R.G.E,no,no,yes,0.5,normal,"b.p, prostrate",-2.63,-2.16,32.02036958450677,obesity ,osteoporosis
+OP117,yes,female,50.0,48.0,1.52,63.0,no,no,no,5.0,no,no,h.wife,left knee,no,no,1.0,normal,no,-2.09,-1.87,27.268005540166204,over weight,osteopenia
+OP118,yes,female,42.0,0.0,1.57,74.0,no,no,no,3.0,no,no,teacher,no,no,no,0.4,normal,G.B rem,-1.88,-1.21,30.021501886486263,obesity ,osteopenia
+OP119,yes,female,50.0,35.0,1.53,61.0,no,no,no,4.0,no,no,h.wife,no,no,no,0.2,normal,B.P,-2.03,-1.6,26.05835362467427,over weight,osteopenia
+OP120,yes,female,45.0,0.0,1.41,85.0,no,no,no,5.0,no,no,h.wife,left leg,no,no,0.2,normal,"B.P, disk",-1.98,-1.91,42.75438861224285,obesity ,osteopenia
+OP121,no,female,34.0,0.0,1.53,69.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.3,normal,"B.P, scizerian",-1.52,-1.58,29.475842624631557,over weight,osteopenia
+OP122,yes,male,73.0,0.0,1.65,64.0,no,no,no,0.0,no,no,R.G.E,no,no,no,0.5,normal,B.P,-1.99,-1.76,23.50780532598714,normal weight,osteopenia
+OP123,yes,female,65.0,48.0,1.48,75.0,no,no,no,4.0,no,no,h.wife,no,no,no,0.5,normal,"uterus rem, G.B rem",-1.87,-0.2,34.240321402483566,obesity ,osteopenia
+OS39,yes,male,65.0,0.0,1.65,65.0,no,no,no,0.0,no,no,R.G.E,no,no,no,1.0,normal,no,-2.99,-2.09,23.87511478420569,normal weight,osteoporosis
+OP124,yes,female,52.0,42.0,1.53,69.0,no,no,no,4.0,no,no,h.wife,spinal injury,no,no,0.2,normal,"osteoporosis, disk, B.P",-1.87,-1.42,29.475842624631557,over weight,osteopenia
+OP125,yes,female,37.0,32.0,1.57,75.0,no,no,no,6.0,no,no,h.wife,no,no,no,0.2,low protiens,"R.arthritis, low b.p",-1.08,-0.91,30.427197857925268,obesity ,osteopenia
+OP126,yes,male,50.0,0.0,1.64,77.0,no,no,no,0.0,no,no,farmer,knee fracture,no,no,3.0,low protiens,b.p,-2.39,-2.12,28.628792385484825,over weight,osteopenia
+OS40,yes,male,70.0,0.0,1.62,77.0,no,yes,no,0.0,no,no,bussinesman,no,no,yes,2.0,low protiens,b.p,-2.79,-1.89,29.340039628105465,over weight,osteoporosis
+OP127,yes,male,47.0,0.0,1.66,72.0,no,no,no,0.0,no,no,G.E,left knee,no,yes,1.0,normal,no,-1.77,-2.74,26.1286108288576,over weight,osteopenia
+OP128,yes,female,50.0,49.0,1.57,74.0,no,no,no,2.0,yes,yes,h.wife,no,no,no,0.5,normal,"b.p, seizer",-1.78,-1.42,30.021501886486263,obesity ,osteopenia
+OS41,yes,female,55.0,45.0,1.47,74.0,no,no,no,6.0,no,no,h.wife,no,no,no,0.5,low protiens &fats,no,-2.5,-2.29,34.24499051321209,obesity ,osteoporosis
+OP129,yes,male,52.0,0.0,1.73,88.0,no,no,no,0.0,no,no,G.E,left leg,no,no,0.5,normal,no,-1.77,-1.04,29.40292024457884,over weight,osteopenia
+OP130,yes,female,35.0,0.0,1.45,78.0,no,no,no,4.0,yes,yes,h.wife,no,no,no,1.0,low fats,"cholestrol, fatty liver, B.P, scizerian",-1.08,-0.76,37.098692033293695,obesity ,osteopenia
+OP131,yes,female,45.0,0.0,1.47,85.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.4,low fats & salt,scizerian,-1.99,-1.91,39.33546207598686,obesity ,osteopenia
+OP132,yes,female,40.0,0.0,1.57,67.0,no,no,no,6.0,no,no,h.wife,no,no,yes,0.3,normal,"disk, low b.p, scizerian",-1.05,-1.08,27.18163008641324,over weight,osteopenia
+OP133,yes,female,50.0,48.0,1.47,78.0,no,no,no,4.0,no,no,h.wife,no,no,yes,0.2,low fats,disk,-2.32,-0.98,36.09607108149383,obesity ,osteopenia
+OS42,yes,female,65.0,45.0,1.38,58.0,no,no,no,3.0,no,no,h.wife,no,no,no,1.0,normal,no,-2.53,-0.71,30.45578659945389,obesity ,osteoporosis
+OP134,yes,female,30.0,0.0,1.6,75.0,no,no,no,2.0,no,no,h.wife,no,no,yes,0.3,normal,disk,-2.09,-2.13,29.296874999999996,over weight,osteopenia
+OP135,yes,female,55.0,48.0,1.45,70.0,no,no,no,3.0,no,no,h.wife,no,no,no,0.3,normal,no,-2.15,-1.76,33.29369797859691,obesity ,osteopenia
+OP136,yes,male,51.0,0.0,1.49,80.0,yes,no,no,0.0,no,no,G.E,no,no,no,1.0,normal,no,-1.4,-0.61,36.03441286428539,obesity ,osteopenia
+OP137,yes,female,52.0,48.0,1.46,79.0,no,no,no,3.0,no,no,h.wife,no,no,yes,0.1,low fats,"cholestrol, B.P",-1.88,-0.87,37.061362356915,obesity ,osteopenia
+OS43,yes,male,75.0,0.0,1.56,48.0,yes,no,no,0.0,no,no,h.wife,no,no,no,0.2,normal,disk,-2.75,-0.93,19.72386587771203,normal weight,osteoporosis
+N34,yes,female,37.0,0.0,1.49,75.0,no,no,no,3.0,no,no,h.wife,no,no,yes,0.2,normal,"disk, stomach cyst, scizerians",-0.76,-0.7,33.78226206026756,obesity ,normal
+OP138,yes,female,45.0,42.0,1.62,88.0,no,no,no,3.0,yes,yes,h.wife,no,no,no,6.0,normal,"uterus rem, dense elbow surgery",-2.02,-1.78,33.53147386069196,obesity ,osteopenia
+OP139,yes,female,45.0,0.0,1.53,65.0,no,no,no,3.0,yes,yes,h.wife,shoulder fracture,no,no,0.2,normal,b.p,-2.01,-1.78,27.76709812465291,over weight,osteopenia
+OS44,yes,male,65.0,0.0,1.61,90.0,yes,yes,no,0.0,no,no,bussinesman,vertebral fracture,no,no,0.2,normal,vertebral surgery,-2.52,-1.23,34.72088268199529,obesity ,osteoporosis
+OS45,yes,male,50.0,0.0,1.68,71.0,no,no,no,0.0,no,no,teacher,yes,no,no,5.0,normal,no,-2.92,-2.56,25.15589569160998,over weight,osteoporosis
+OP140,yes,female,40.0,0.0,1.57,70.0,no,no,no,2.0,no,no,h.wife,no,no,no,1.0,normal,scizerian,-1.05,-0.89,28.39871800073025,over weight,osteopenia
+OP141,yes,female,55.0,45.0,1.51,59.0,no,no,no,0.0,no,yes,h.wife,no,no,yes,0.3,normal,"b.p, stomach",-2.09,-1.52,25.87605806762861,over weight,osteopenia
+OP142,yes,female,50.0,0.0,1.51,62.0,no,no,yes,2.0,no,no,h.wife,no,no,no,1.0,low protiens,R.arthrities,-2.39,-1.6,27.19178983377922,over weight,osteopenia
+OS46,yes,male,70.0,0.0,1.54,58.0,yes,no,no,0.0,no,no,farmer,both legs,no,no,1.0,normal,no,-2.97,-2.01,24.456063417102374,normal weight,osteoporosis
+OP143,yes,male,58.0,0.0,1.7,74.0,no,no,yes,0.0,no,no,teacher,no,no,no,3.0,normal,disk,-1.32,-1.08,25.60553633217993,over weight,osteopenia
+OP144,yes,female,60.0,48.0,1.51,62.0,no,no,yes,4.0,no,no,h.wife,no,no,no,0.5,normal,no,-2.39,-1.21,27.19178983377922,over weight,osteopenia
+OS47,yes,female,50.0,44.0,1.55,64.0,no,no,no,7.0,no,no,h.wife,no,no,no,1.0,normal,scizerian,-2.56,-1.6,26.638917793964616,over weight,osteoporosis
+OP145,yes,male,56.0,0.0,1.65,69.0,yes,no,yes,0.0,no,no,teacher,yes,no,yes,4.0,normal,b.p,-1.39,-1.09,25.344352617079885,over weight,osteopenia
+OS48,yes,male,65.0,0.0,1.69,79.0,no,no,no,0.0,no,no,R.G.E,R.leg,no,yes,0.5,normal,no,-2.59,-1.21,27.660095935016283,over weight,osteoporosis
+OP146,yes,male,50.0,0.0,1.55,63.0,no,no,no,0.0,no,no,farmer,R.leg,no,no,4.0,normal,no,-1.81,-0.79,26.22268470343392,over weight,osteopenia
+OP147,yes,male,70.0,0.0,1.53,56.0,no,no,yes,0.0,no,no,bussinesman,no,no,no,0.2,low protiens,stomach,-1.56,-1.89,23.92242299970097,normal weight,osteopenia
+N35,yes,female,24.0,0.0,1.63,71.0,no,no,no,0.0,no,no,student,no,no,yes,0.2,normal,no,-0.52,-0.56,26.72287252060672,over weight,normal
+N36,yes,female,27.0,0.0,1.49,49.0,no,no,yes,0.0,no,yes,student,hip injury,no,yes,0.3,normal,no,-0.47,-0.42,22.071077879374805,normal weight,normal
+OP148,yes,male,62.0,0.0,1.69,82.0,yes,no,no,0.0,no,no,R.G.E,no,no,yes,0.5,normal,no,-2.08,-2.19,28.71047932495361,over weight,osteopenia
+OP149,yes,male,56.0,0.0,1.59,68.0,yes,no,yes,0.0,no,no,G.E,L.leg,no,no,3.0,normal,liver cyst,-2.03,-1.46,26.897670187097027,over weight,osteopenia
+OP150,yes,female,47.0,41.0,1.48,78.0,no,no,yes,3.0,no,no,h.wife,L.ankle,no,no,0.2,normal,uterus rem,-2.1,-1.67,35.60993425858291,obesity ,osteopenia
+OP151,yes,male,54.0,0.0,1.69,68.0,no,no,no,0.0,no,no,G.E,no,no,yes,6.0,normal,no,-2.02,-2.45,23.80869017191275,normal weight,osteopenia
+OP152,yes,female,56.0,0.0,1.54,80.0,no,no,yes,5.0,yes,yes,teacher,no,no,yes,0.2,normal,"scizerian, b.p",-1.97,-1.34,33.7325012649688,obesity ,osteopenia
+OS49,yes,male,55.0,0.0,1.53,63.0,no,no,no,0.0,no,no,G.E,no,no,no,6.0,normal,heart,-2.99,-2.42,26.91272587466359,over weight,osteoporosis
+OP153,yes,male,49.0,0.0,1.67,88.0,no,no,no,0.0,no,no,teacher,"L.elbow,wrist",no,yes,0.5,normal,"G.B rem, fatty liver",-1.72,-1.21,31.55365914876833,obesity ,osteopenia
+OP154,yes,female,56.0,48.0,1.52,68.0,no,no,no,6.0,no,no,h.wife,no,no,yes,0.2,"low fats,proteins","G.B& uterus rem, intestine surgery",-2.01,-1.13,29.43213296398892,overweight,osteopenia
+N37,yes,male,39.0,0.0,1.63,70.0,no,no,no,0.0,no,no,bussinesman,knee fracture,no,no,5.0,low salt,no,-0.76,-0.59,26.34649403440099,over weight,normal
